@@ -13,19 +13,4 @@
 ---
 
 ## 🌸 自己紹介 (About Me)
-```svg
-<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg" style="max-width: 600px;">
-  <style>
-    @keyframes glow {
-      0% { filter: drop-shadow(0 0 2px #ff69b4); }
-      50% { filter: drop-shadow(0 0 5px #ff1493); }
-      100% { filter: drop-shadow(0 0 2px #ff69b4); }
-    }
-    .glow {
-      animation: glow 2s ease-in-out infinite;
-    }
-  </style>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="#FF69B4" class="glow">
-    初めまして！コードと抹茶を愛する開発者です ☕ (Nice to meet you! I'm a developer who loves code and matcha)
-  </text>
-</svg>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
