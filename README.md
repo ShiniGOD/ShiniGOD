@@ -1,25 +1,23 @@
-### <span style="color:red; font-weight:bold; font-size:30px;">SHINI</span>
+# <div align="center"><span style="color:red; animation: pulse 2s infinite">S H I N I</span> 🍒</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGc2cnk0bjd1OW1tM3E3eXUzd2l1ZTZiM3R6N3ZpaWJ4dTI5OHU1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RjH3Jz0X3AxEk/giphy.gif" width="200" height="200"/>
-</p>
-
-<p align="center">
-  <b><span style="font-size: 20px;">IM TRYING OKAYYYY!!</span></b>
-</p>
+<div align="center">
+  <img src="https://media.tenor.com/5DS7Ix6uNmAAAAAd/cat-typing.gif" width="200">
+</div>
 
 ---
 
-### 💀 Powered by: Depression
-### 💻 Programming: A
-### 🍉 Likes?: Rambutan
+## <span style="color:red; text-shadow: 0 0 10px rgba(255,0,0,0.5)">`I'M TRYING OKAYYYY!!`</span>  
+![Shake](https://media.tenor.com/5fBv7Y5J5z0AAAAj/shaking-anime.gif)
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9mNnYwbm8xbzUxcjMzaXJ5dXowZndzMXRmd3R4ZXRvcTNvM3RtMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jD4DwBtqZl0IM/giphy.gif" width="300" height="200"/>
-</p>
-
----
-
-#### 🔥 *Because coding with chaotic energy is the only way!*
+```css
+/* Secret CSS animations 👀 */
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-10px); }
+  75% { transform: translateX(10px); }
+}
