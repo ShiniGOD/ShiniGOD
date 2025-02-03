@@ -1,23 +1,47 @@
-# <div align="center"><span style="color:red; animation: pulse 2s infinite">S H I N I</span> 🍒</div>
+# <span style="color:red">R E D</span> 🎆
 
-<div align="center">
-  <img src="https://media.tenor.com/5DS7Ix6uNmAAAAAd/cat-typing.gif" width="200">
-</div>
+![Shini](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXg3d2VnY3h4dTk0d2U4eG5vbmRqNnV5cGN0b3FmY2Q2aHp5cWsyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=IM+TRYING+OKAYYYY!!!" alt="typing animation" />
+</p>
 
 ---
 
-## <span style="color:red; text-shadow: 0 0 10px rgba(255,0,0,0.5)">`I'M TRYING OKAYYYY!!`</span>  
-![Shake](https://media.tenor.com/5fBv7Y5J5z0AAAAj/shaking-anime.gif)
+### **🩸 Powered By**  
+![Depression](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)  
+*A perpetual dance with the void*  
 
-```css
-/* Secret CSS animations 👀 */
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-@keyframes shake {
-  0% { transform: translateX(0); }
-  25% { transform: translateX(-10px); }
-  75% { transform: translateX(10px); }
-}
+---
+
+### **💻 Code Cred**  
+![Grade](https://img.shields.io/badge/Programming-A%2B-ff0000?style=for-the-badge&logo=matrix&logoColor=white)  
+*When the code compiles on the first try… once a year*  
+
+---
+
+### **❤️ Likes**  
+![Rambutan](https://media.giphy.com/media/xThta1SAy7s0g4CDg4/giphy.gif)  
+*Spiky outside, juicy inside—just like my personality*  
+
+---
+
+### **🌪️ GitHub Stats**  
+![Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&bg_color=00000000)  
+*I swear I’m productive between 2-4 AM*  
+
+---
+
+### **🔥 Tech Stack**  
+![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white)  
+*Tools I use to fight existential dread*  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VV26kEKedK/giphy.gif" width="200">
+  <br>
+  *README.MD crafted during a 3 AM mental spiral* 🌌
+</p>
