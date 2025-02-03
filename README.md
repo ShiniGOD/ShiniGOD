@@ -1,77 +1,82 @@
-<!-- Cue chaotic intro animation -->
+<!-- 天誅ギャルゲー INTRO -->  
+<div align="center">
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="300">  
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=40&duration=2800&color=FF2222¢er=true&vCenter=true&width=500&lines=≪──────«*»──────≫;　　　𝓚𝓞𝓝𝓝𝓘𝓒𝓗𝓘𝓦𝓐♡;　　　I’m Shini-chan!%F0%9F%92%95;≪──────«*»──────≫" alt="anime title screen">  
+</div>
+
+<!-- Neko Shini appears with sparkles -->  
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/SSep7zRjN6V8k/giphy.gif" width="200">  
+  <br>
+  <img src="https://media.giphy.com/media/26Fxy3Iz7KSPbQNk4/giphy.gif" width="80">  
+  <strong>「よ… よろしくね…？」</strong>  
+  <img src="https://media.giphy.com/media/26Fxy3Iz7KSPbQNk4/giphy.gif" width="80">  
 </p>
 
-# <div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=40&duration=2500&color=FF3131¢er=true&vCenter=true&width=500&lines=⋆⁺｡˚⋆˙∙₊☾　HELLO☆WORLD　☽₊∙˙⋆˚｡⁺⋆;嗨%20%E3%81%A7%E3%81%99%20%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AF%20Shini%20𓆩♡𓆪" alt="glitchy multilingual header" />
+---
+
+### **🌀 闇の力 (Yami no Chikara)**  
+<div align="center">
+  <img src="https://media.giphy.com/media/13AN8X7jBImwD6/giphy.gif" width="150">  
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2500&color=FF2222&repeat=true&width=500&lines=Powered+by%3A++++Depression+%26+Melon+Soda%E3%83%BB%E3%83%BC%E3%83%BB" alt="power source">  
 </div>
 
-<!-- Shini appears with sakura explosion -->
-<div align="center">
-  <img src="https://media.giphy.com/media/26xBt4jHr8l2XlkJi/giphy.gif" width="300">
-  <br>
-  <img src="https://media.giphy.com/media/3oKIPkHXpFlNTwU6y4/giphy.gif" width="100"> 
-  <h3> 
-    <img src="https://media.giphy.com/media/12VXIxKaIEarL2/giphy.gif" width="30"> 
-    よろしくお願いします! 
-    <img src="https://media.giphy.com/media/12VXIxKaIEarL2/giphy.gif" width="30">
-  </h3>
-</div>
+*“私の心は永遠に燃えています… でも多分燃えすぎです”*  
 
 ---
 
-<!-- Depression meter with animated chart -->
-### **🌀 Power Source**  
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSha7NPD3J6gqI/giphy.gif" width="150">  
-  <br>
-  <img src="https://progress-bar.dev/87/?title=Existential%20Fuel&scale=10&suffix=%&width=400&color=ff0000" alt="depression meter">
-</p>
-
-*“My soul runs on iced coffee and ✨despair✨”*
-
----
-
-<!-- Rambutan section with rotating fruit -->
-### **❤️‍🔥 Obsession Du Jour**  
+### **❤️ ランブータン中毒 (Rambutan Chou-doku)**  
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="200" style="border-radius:50%"> 
+  <img src="https://media.giphy.com/media/xT5LMJmXRGgLwM6f8k/giphy.gif" width="250">  
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&color=FF0000&repeat=false&width=500&lines=RAMBUTAN%20ADDICT%20(◕‿◕✿)" alt="rambutan addiction"> 
+  <img src="https://media.giphy.com/media/l0HlKrQEvXxi1fVP6/giphy.gif" width="100">  
+  <h3>スパイキー♥スウィート</h3>  
+  <img src="https://media.giphy.com/media/26gsjCZvPoDijJjAI/giphy.gif" width="120">  
 </div>
 
 ---
 
-<!-- Animated code skills showcase -->
-### **💻 Digital Sorcery**  
+### **💻 コードの魔女 (Code no Majo)**  
 <div align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"> 
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="200">  
   <br>
   
-  ![Python](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FF0000?style=for-the-badge&logo=python&logoColor=yellow&labelColor=000000)
-  ![Java](https://img.shields.io/badge/JAVA-熱情-red?style=for-the-badge&logo=coffeescript&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML-%E3%82%A6%E3%83%9E%E3%82%A4-red?style=for-the-badge&logo=html5&logoColor=white)
+  ![Python](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86_PYTHON_%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FF2222?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JS-%E7%84%BC%E3%81%8D%E3%81%A4%E3%81%8D%E3%83%BB%E3%83%AC%E3%83%83%E3%83%89-FF2222?style=for-the-badge&logo=javascript&logoColor=yellow)  
+  ![HTML](https://img.shields.io/badge/HTML-%E5%90%9B%E3%81%AE%E5%BF%83%E3%81%AB%E3%83%AC%E3%83%83%E3%83%89-FF2222?style=for-the-badge&logo=html5&logoColor=white)  
 </div>
+
+*“プログラムは… 私の呪いです…”*  
 
 ---
 
-<!-- Live GitHub stats with animated border -->
-### **📊 Reality Check**  
+### **📊 現実逃避中 (Genjitsu Touhi-chuu)**  
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btY5xYiQZ3hYvUQ/giphy.gif" width="200"> 
+  <img src="https://media.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" width="250">  
   <br>
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&bg_color=00000000&border_color=ff0000&include_all_commits=true&count_private=true&ring=ff0000&hide_border=false)  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&bg_color=00000000&border_color=ff2222&icon_color=ff2222&title_color=ff2222&include_all_commits=true&hide=prs,issues)  
 </div>
 
-*“The voices say I’m doing great!”*
+*“このデータ… ウソでしょ？”*  
 
 ---
 
-<!-- Floating goodbye animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26gsasKHkeH0VP8d2/giphy.gif" width="300"> 
+### **🎌 アニメ名言 (Anime Meigen)**  
+<div align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiQIqHwA/giphy.gif" width="150">  
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Kosugi+Maru&size=20&duration=3000&color=FF5555¢er=true&vCenter=true&width=500&lines=またね～☆ﾐ" alt="goodbye in Japanese"> 
-</p>
+  
+  > *“IM TRYING OKAYYYY!!”*  
+  > **- Shini-chan** (Ep. 24, 3AM coding arc)  
+</div>
+
+---
+
+<!-- Tsundere ending sequence -->  
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKUZpuo8cZ4n9I4/giphy.gif" width="250">  
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=20&duration=3000&color=FF2222¢er=true&vCenter=true&width=500&lines=べ…別にあなたのためじゃないんだからねっ！;　　　　　　　　　　　　　　　　　　　　　　　%F0%9F%92%95" alt="tsundere exit">  
+</div>
