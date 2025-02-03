@@ -15,6 +15,8 @@
 ## 🌸 自己紹介 (About Me)
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> </div>
+
 <div align="center"> <a href="https://twitter.com/YourHandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-FF5252?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 <div align="center"> <marquee behavior="scroll" direction="left" scrollamount="10"> 🎍 いつも応援ありがとうございます！ Thank you for your support! 🎍 </marquee> <img src="https://media.tenor.com/8bUQ3y9Yr1MAAAAi/pixel-art.gif" width="150"/> </div>
