@@ -1,55 +1,58 @@
-<!-- Animated Header -->
+<!-- Anime Title with Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=500&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+✨+Project+Galaxy+✨;Where+Magic+Meets+Code+🪄;Build+with+❤️+and+⚡" alt="Animated Typing Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Anime+Ace&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&height=60&lines=ようこそ+✨+Project+Nakama+✨;Where+Code+Meets+Kawaii+✧◝(⁰▿⁰)◜✧;Baka-Proof+System+Design+ᕙ(⇀‸↼‶)ᕗ" alt="Anime Typing Header">
 </div>
 
-<!-- Animated Divider -->
-<img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" width="100%">
+<!-- Sakura Border Divider -->
+<img src="https://raw.githubusercontent.com/MikuNyanya/MikuNyanya/main/sakura-border.svg" width="100%">
 
-<!-- Animated Badges -->
+<!-- Anime-style Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Type-Magic-58A6FF?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Powered%20By-Coffee%20☕-FFDD00?style=for-the-badge&logo=coffeescript&logoColor=black">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Galaxy+Visitors+👽&color=58A6FF&style=for-the-badge" alt="Visitor Counter">
+  <img src="https://img.shields.io/badge/Type-%E7%A5%9E_(Kami)-FF69B4?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Powered_By-Matcha%20🍵-00C853?style=for-the-badge&logo=line&logoColor=white">
+  <img src="https://img.shields.io/badge/Architecture-Shōnen%20🏯-FF4088?style=for-the-badge">
 </p>
 
-<!-- Floating Feature Cards -->
+<!-- Chibi Feature Showcase -->
 <div align="center">
   
-| 🚀 Features | 🎨 Design | ⚡ Performance |
+| ヾ(＾-＾)ノ Moe Features | (◕ᴥ◕) Cuteness Overload | ヽ(°〇°)ﾉ Epic Battles |
 | :---: | :---: | :---: |
-| <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/l3vQXZiBGhxBEALEk/giphy.gif" width="150"> |
-| Blazing Fast Execution | Stellar Visuals | Optimized Resources |
+| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d0bGx0Y3B4eW9sY3FheWJ6b2F5d3J2dHd4d2F5a2M1N2Y5c2l2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13gvXfEVlxHi0w/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/3o7TKUQt06gLCYrvLi/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/12Bpme5pTzGmg8/giphy.gif" width="150"> |
+| Magical Girl Transformations | Neko-chan Approved | Boss Battle Ready |
 
 </div>
 
-<!-- Animated Tech Stack -->
-<h2 align="center">⚙️ Tech Stack</h2>
+<!-- Anime Tech Stack Section -->
+<h2 align="center">⚡ Tech-ni-cal Stack (≧∇≦)/</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,aws,firebase,graphql&theme=dark&perline=6" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=vuejs,deno,mdx,vercel,supabase,tailwind&theme=light&perline=6" alt="Tech Stack">
+  <br>
+  <img src="https://media.giphy.com/media/J0wzzkwP4W3Pi/giphy.gif" width="120">
 </p>
 
-<!-- Interactive Demo Section -->
+<!-- Demo Section with Collapsible Senpai -->
 <details>
-  <summary><b>🎮 Live Demo (Click to Expand!)</b></summary>
+  <summary><b>🌸 Live Dojo Demo (Click Senpai!)</b></summary>
   <div align="center">
-    <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="600" alt="Project Demo">
+    <img src="https://media.giphy.com/media/12UlfHpF05ielm/giphy.gif" width="600" alt="Anime Demo">
+    <p>Notice me senpai! (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)</p>
   </div>
 </details>
 
-<!-- Installation Animation -->
-<h2 align="center">🚀 Installation</h2>
+<!-- Installation Guide with Anime Twist -->
+<h2 align="center">✨ Installation Ritual</h2>
 <div align="center">
   
 ```bash
-# Clone with animated progress
-git clone https://github.com/yourusername/project-galaxy.git
+# Clone with cat-like speed
+nyan clone https://github.com/yourusername/project-nakama.git
 
-# Enter the galaxy 🌌
-cd project-galaxy
+# Enter the dojo 🥋
+cd project-nakama
 
-# Install dependencies
-npm install
+# Install ramen dependencies 🍜
+npm install || yarn install
 
-# Launch the rocket 🚀
-npm start
+# Summon the spirit fox 🦊
+npm run dev
