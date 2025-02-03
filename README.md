@@ -1,82 +1,89 @@
-<!-- Rainbow divider animation -->
+# <div align="center">✨ Welcome to My Universe ✨</div>
+
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3d/80/d8/3d80d89c1327e4a7556f358d3a0a99d5.gif" width="100%">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
 </div>
 
-<!-- Animated header -->
-<h1 align="center" style="color:red; animation: shake 0.5s infinite;">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="50px"> 
-  Ｓｈｉｎｉ 
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="50px">
-</h1>
-
-<!-- Animated text section -->
+<!-- Animated Greeting Text -->
 <div align="center">
-  <marquee behavior="alternate" scrollamount="10" style="color:red; font-size:24px;">
-    ░I░M░ ░T░R░Y░I░N░G░ ░O░K░A░Y░Y░Y░!░!░  <img src="https://media.giphy.com/media/ASvQ3A2Q2q9eE/giphy.gif" width="60">
-  </marquee>
+  <h3 class="greeting">Hello I'm Shini 👋</h3>
+  <h3 class="cycle-text">Wake + Eat + Code + Sleep 🔁</h3>
+  <h3 class="glitch">Get out of my head! 👾</h3>
 </div>
 
-<!-- Main content with animations -->
+<!-- Anime GIF Grid -->
+<div align="center" class="gif-grid">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/LMQ7U2R5zZEnZQZ7hT/giphy.gif" width="300">
+</div>
+
+<!-- Animated Stats -->
 <div align="center">
-  <img src="https://media.giphy.com/media/12k3W4k5Z5H05G/giphy.gif" width="200">
-  
-  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> *About Me*
-  <p style="color:red;">
-    <img src="https://media.giphy.com/media/LqZHjSeLlbxMWjsVYs/giphy.gif" width="20"> 
-    Powered by: <strong>Depression</strong> 
-    <img src="https://media.giphy.com/media/LqZHjSeLlbxMWjsVYs/giphy.gif" width="20">
-  </p>
-  
-  <!-- Programming grade with animated badge -->
-  [![Programming Grade](https://img.shields.io/badge/Programming-A%2B-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-  
-  <!-- Sleep animation -->
-  <p>Likes: SLEEP 
-    <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="40">
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Stats">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" alt="Streak">
 </div>
 
-<!-- Anime GIF section -->
-<div align="center">
-  <h3>Current Mood:</h3>
-  <img src="https://media.giphy.com/media/J3urDdsi5kQ5vEBvqZ/giphy.gif" width="300">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="300">
-</div>
-
-<!-- Falling animation effect -->
-<div style="position:relative;">
-  <div style="position:absolute; animation: fall 2s infinite;">
-    <img src="https://media.giphy.com/media/26n79l4g8z2D5Q4sE/giphy.gif" width="100">
-  </div>
-</div>
-
-<!-- CSS Animations -->
 <style>
-  @keyframes shake {
-    0% { transform: translate(1px, 1px) rotate(0deg); }
-    10% { transform: translate(-1px, -2px) rotate(-1deg); }
-    20% { transform: translate(-3px, 0px) rotate(1deg); }
-    30% { transform: translate(3px, 2px) rotate(0deg); }
-    40% { transform: translate(1px, -1px) rotate(1deg); }
-    50% { transform: translate(-1px, 2px) rotate(-1deg); }
-    60% { transform: translate(-3px, 1px) rotate(0deg); }
-    70% { transform: translate(3px, 1px) rotate(-1deg); }
-    80% { transform: translate(-1px, -1px) rotate(1deg); }
-    90% { transform: translate(1px, 2px) rotate(0deg); }
-    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  /* Text Animations */
+  .greeting {
+    animation: fadeIn 2s ease-in;
+    color: #ff6b6b;
   }
 
-  @keyframes fall {
-    0% { top: -100px; }
-    100% { top: 100vh; }
+  .cycle-text {
+    animation: colorCycle 3s infinite;
+    font-family: 'Courier New', monospace;
+  }
+
+  .glitch {
+    animation: glitch 1s infinite;
+    color: #ff79c6;
+  }
+
+  /* GIF Grid Layout */
+  .gif-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+    padding: 2rem;
+  }
+
+  /* Keyframe Animations */
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  @keyframes colorCycle {
+    0% { color: #ff79c6; }
+    25% { color: #bd93f9; }
+    50% { color: #8be9fd; }
+    75% { color: #50fa7b; }
+    100% { color: #ffb86c; }
+  }
+
+  @keyframes glitch {
+    0% { text-shadow: 2px 2px #8be9fd, -2px -2px #ff79c6; }
+    25% { text-shadow: -2px 2px #50fa7b, 2px -2px #ffb86c; }
+    50% { text-shadow: 3px -1px #bd93f9, -3px 1px #ff6b6b; }
+    75% { text-shadow: -1px -3px #8be9fd, 1px 3px #ff79c6; }
+    100% { text-shadow: 2px 2px #8be9fd, -2px -2px #ff79c6; }
+  }
+
+  /* Hover Effects */
+  img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
   }
 </style>
 
-<!-- Footer animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="100%">
-  <p>Thanks for visiting! 
-    <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="30">
-  </p>
+  <h3>🚀 Tech Stack</h3>
+  <img src="https://img.shields.io/badge/Code-Anime%20Magic-%23ff69b4?style=for-the-badge&logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/Powered%20By-Cat%20Nip-%23ffd700?style=for-the-badge">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="150">
 </div>
