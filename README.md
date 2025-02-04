@@ -43,6 +43,6 @@ Skill?: Programing,modeling,Animation,Music
   </a>
   
   <a href="https://discord.com/users/shinthedeath">
-    <img src="https://img.shields.io/badge/🎮_Discord-shinthedeath%230001-FF69B4?style=flat-square&logo=discord" alt="Discord">
+    <img src="https://img.shields.io/badge/🎮_Discord-shinthedeath-FF69B4?style=flat-square&logo=discord" alt="Discord">
   </a>
 </p>
