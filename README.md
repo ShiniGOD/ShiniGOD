@@ -42,7 +42,7 @@ Skill?: Programing,modeling,Animation,Music
     <img src="https://img.shields.io/badge/✉️_Gmail-your.email%40gmail.com-FF69B4?style=flat-square&logo=gmail" alt="Gmail">
   </a>
   
-  <a href="https://discord.com/users/your_discord_id">
+  <a href="https://discord.com/users/shinthedeath">
     <img src="https://img.shields.io/badge/🎮_Discord-Shini%231234-FF69B4?style=flat-square&logo=discord" alt="Discord">
   </a>
 </p>
