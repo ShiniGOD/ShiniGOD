@@ -1,7 +1,7 @@
 <!-- Animated Banner -->
 <div align="center">
   <img src="https://media.tenor.com/9E0DlV1F1IAAAAAC/wave-japanese.gif" width="200"/>
-  <h1 align="center">🎋 ようこそ、<span style="color: #ff69b4;">Shini</span>の世界へ 🎌</h1>
+  <h1 align="center">✦ ようこそ、<span style="color: #ff69b4;">Shini</span>の世界へ ✦</h1>
   <img src="https://media.tenor.com/3Hhx0R-km8kAAAAi/juicy-sakura.gif" width="100"/>
 </div>
 
@@ -12,18 +12,37 @@
 
 ---
 
-## 🌸 自己紹介 (About Me)
+## 🩸 自己紹介 (About Me)
 ```svg
 Age   : 2006
 Likes?: Games
 Skill?: Programing,modeling,Animation,Music
 
 ```
-🎌 ステータス (Current Status)
-<div style="text-align: center;">
-  <img 
-    src="[https://i.pinimg.com/originals/c0/23/29/c02329b60cf6bea43d1b8ff9ce4c5851.gif]" 
-    alt="Centered GIF"
-    width="250"
+♜ ステータス (Current Status)
+<div align="center">
+  <img
+    src="https://i.pinimg.com/originals/c0/23/29/c02329b60cf6bea43d1b8ff9ce4c5851.gif"
+    alt="Sparkling magical girl"
+    width="500"
+    style="border: 3px solid #ff69b4; border-radius: 15px;"
   >
+  <h3>落下するもの! 🍂</h3>
+  <p>Will Pass Everyone!</p>
 </div>
+
+## 🌸 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/your_username/">
+    <img src="https://img.shields.io/badge/📸_Instagram-@your__username-FF69B4?style=flat-square&logo=instagram" alt="Instagram">
+  </a>
+  
+  <a href="mailto:your.email@gmail.com" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/✉️_Gmail-your.email%40gmail.com-FF69B4?style=flat-square&logo=gmail" alt="Gmail">
+  </a>
+  
+  <a href="https://discord.com/users/your_discord_id">
+    <img src="https://img.shields.io/badge/🎮_Discord-Shini%231234-FF69B4?style=flat-square&logo=discord" alt="Discord">
+  </a>
+</p>
