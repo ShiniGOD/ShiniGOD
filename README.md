@@ -38,8 +38,8 @@ Skill?: Programing,modeling,Animation,Music
     <img src="https://img.shields.io/badge/📸_Instagram-@02_jedo-FF69B4?style=flat-square&logo=instagram" alt="Instagram">
   </a>
   
-  <a href="mailto:your.email@gmail.com" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/✉️_Gmail-your.email%40gmail.com-FF69B4?style=flat-square&logo=gmail" alt="Gmail">
+  <a href="mailto:shinitakamori@gmail.com" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/✉️_Gmail-shinitakamori%40gmail.com-FF69B4?style=flat-square&logo=gmail" alt="Gmail">
   </a>
   
   <a href="https://discord.com/users/shinthedeath">
