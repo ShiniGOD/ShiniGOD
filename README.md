@@ -22,7 +22,7 @@ Skill?: Programing,modeling,Animation,Music
 🎌 ステータス (Current Status)
 <div style="text-align: center;">
   <img 
-    src="[(https://i.pinimg.com/originals/c0/23/29/c02329b60cf6bea43d1b8ff9ce4c5851.gif)]" 
+    src="[https://i.pinimg.com/originals/c0/23/29/c02329b60cf6bea43d1b8ff9ce4c5851.gif]" 
     alt="Centered GIF"
     width="250"
   >
