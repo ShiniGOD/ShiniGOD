@@ -34,8 +34,8 @@ Skill?: Programing,modeling,Animation,Music
 ## 🌸 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/your_username/">
-    <img src="https://img.shields.io/badge/📸_Instagram-@your__username-FF69B4?style=flat-square&logo=instagram" alt="Instagram">
+  <a href="https://www.instagram.com/02_jedo/">
+    <img src="https://img.shields.io/badge/📸_Instagram-@02_jedo-FF69B4?style=flat-square&logo=instagram" alt="Instagram">
   </a>
   
   <a href="mailto:your.email@gmail.com" style="margin: 0 15px;">
