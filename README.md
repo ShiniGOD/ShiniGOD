@@ -1,4 +1,4 @@
-# 🌸 Konnichiwa! I'm Jojo ✨
+# 🌸 Konnichiwa! I'm Jonathan (Jojo) ✨
 
 <div align="center">
   
@@ -8,17 +8,18 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=alexchen&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/alexchen)
-[![GitHub followers](https://img.shields.io/github/followers/alexchen?label=Followers&style=social)](https://github.com/alexchen)
-[![GitHub stars](https://img.shields.io/github/stars/alexchen?label=Stars&style=social)](https://github.com/alexchen)
+[![Profile Views](https://komarev.com/ghpvc/?username=ShiniGOD&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/ShiniGOD)
+[![GitHub followers](https://img.shields.io/github/followers/ShiniGOD?label=Followers&style=social)](https://github.com/ShiniGOD)
+[![GitHub stars](https://img.shields.io/github/stars/ShiniGOD?label=Stars&style=social)](https://github.com/ShiniGOD)
 
 </div>
 
 ## 🎌 About Me
 
 ```javascript
-const alexchen = {
-    name: "Alex Chen",
+const shiniGOD = {
+    name: "Jonathan eldo kusuma",
+    nickname: "Jojo",
     title: "Digital Sorcerer & Code Artisan",
     location: "Coding Dojo 🥷",
     currentlyWatching: ["Demon Slayer", "Attack on Titan", "Your Name"],
@@ -54,8 +55,8 @@ const alexchen = {
 
 ## 🎮 Power Level Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexchen&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&icon_color=FF6B9D" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexchen&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=FFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShiniGOD&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&icon_color=FF6B9D" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiniGOD&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=FFF" />
 
 </div>
 
@@ -63,7 +64,7 @@ const alexchen = {
 
 ## ⚡ GitHub Streak - Training Never Stops!
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=alexchen&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShiniGOD&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
 
 </div>
 
@@ -100,8 +101,8 @@ const alexchen = {
 
 ### 🎭 Epic Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexchen&repo=aesthetic-social-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&icon_color=FF6B9D)](https://github.com/alexchen/aesthetic-social-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexchen&repo=anime-dashboard&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&icon_color=FF6B9D)](https://github.com/alexchen/anime-dashboard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShiniGOD&repo=aesthetic-social-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&icon_color=FF6B9D)](https://github.com/ShiniGOD/aesthetic-social-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShiniGOD&repo=anime-dashboard&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&icon_color=FF6B9D)](https://github.com/ShiniGOD/anime-dashboard)
 
 </div>
 
@@ -124,7 +125,7 @@ TypeScript   1 hr 30 mins    ██░░░░░░░░░░░░░░░
 
 ## 🌸 Activity Graph - My Coding Journey
 
-[![Alex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexchen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF)](https://github.com/alexchen)
+[![Jonathan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShiniGOD&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF)](https://github.com/ShiniGOD)
 
 </div>
 
@@ -132,12 +133,12 @@ TypeScript   1 hr 30 mins    ██░░░░░░░░░░░░░░░
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexchen.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexchen)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alexchen_dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexchen.codes)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/alexchen)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.chen@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shinigod.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-eldo-kusuma)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShiniGOD_dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shinigod.codes)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ShiniGOD)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.eldo@email.com)
 
 </div>
 
