@@ -1,7 +1,13 @@
+<div align="center">
+
+![Anime Banner](https://i.imgur.com/your-banner-image.gif)
+
 # ShiniGOD
 
 [![GitHub Stars](https://img.shields.io/github/stars/ShiniGOD/ShiniGOD.svg)](https://github.com/ShiniGOD/ShiniGOD/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+</div>
 
 > Config files for my GitHub profile. Built by a self-taught developer.
 
