@@ -1,8 +1,6 @@
 <div align="center">
 
-![Anime Banner](https://i.imgur.com/your-banner-image.gif)
-
-# ShiniGOD
+![Anime Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ShiniGOD&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35)
 
 [![GitHub Stars](https://img.shields.io/github/stars/ShiniGOD/ShiniGOD.svg)](https://github.com/ShiniGOD/ShiniGOD/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
