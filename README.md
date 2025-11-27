@@ -21,13 +21,11 @@ Self-taught developer passionate about creating elegant solutions to complex pro
 ## Featured Projects
 
 ### [LIABot](https://github.com/ShiniGOD/LIABot)
-Learning intelligent Artificial - An AI bot built with JavaScript
+Currently privated
 
 ### [Alcodingbuddy](https://github.com/ShiniGOD/Alcodingbuddy)
 Your own code guide (not ai agent) - Python-based coding assistant
 
-### [Chess](https://github.com/ShiniGOD/Chess)
-Interactive chess game built with HTML
 
 ## Get in Touch
 
